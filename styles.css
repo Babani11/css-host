@@ -20,8 +20,6 @@ i:nth-child(1) {
     animation-duration: 5s;
 }
 
-/* Repeat for all other i:nth-child(n) rules... */
-
 @keyframes screen {
     from {
         opacity: 0;
